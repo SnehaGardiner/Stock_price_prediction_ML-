@@ -1,3 +1,4 @@
+Colab Notebook: https://colab.research.google.com/drive/1bKTZqVEPlFjxpvtdsxutIRvtyNzRvIGg
 # Stock_price_prediction_ML-
 Stock price prediction using LSTM on historical data
 
